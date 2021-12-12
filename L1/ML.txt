@@ -1,0 +1,21 @@
+﻿What is Machine Learning ?
+
+	The Machine Learning has the ability to learn without being explicitly programmed
+
+	It is Branch of Artificial Intelligence 
+	
+	In another words , Machine Learning Can be explained as , automating and improving the learning process of computers based on their experencies without being actual programmed or without any human assitance.
+
+         
+
+
+
+
+           IP
+                                                                                                       OP
+     Program
+
+
+
+
+
