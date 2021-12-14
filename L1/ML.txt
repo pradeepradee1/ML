@@ -18,4 +18,54 @@
 
 
 
+  
+
+            IP
+                                                                                                           Program
+           OP                                       
+
+
+
+
+
+Machine Learning involves making machine will do things like human do
+
+
+How Humans brains work ?
+
+    • Brain consists of tiny neurans there are billions of neurons in the brain
+      
+    • Whenever we think or making decision the chemical signal is generated and these tiny neurans light up
+
+
+
+
+
+
+Deep Learning is subset of Machine Learning
+
+
+
+
+
+Examples :
+
+                • Mail Spam
+                • Finger Print
+                • personel Assiant
+                • Youtube Recommended Videos
+
+
+
+Types Of ML : 
+
+    1. Supervised Learning
+    2. UnSupervised Learning
+    3. Semi-Supervised Learning
+    4. Reinforcement Learning
+
+
+
+
+
 
